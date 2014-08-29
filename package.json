@@ -1,5 +1,5 @@
 {
-  "name": "prowl-gulp-module-jsvalidate",
+  "name": "gulp-module-jsvalidate",
   "version": "0.0.1",
   "description": "JSvalidate plugin for gulp",
   "main": "lib/index.js",
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/prowl/gulp-module-jsvalidate/issues"
   },
-  "homepage": "https://github.com/prowl/gulp-module-jsvalidate"
+  "homepage": "https://github.com/prowl/gulp-module-jsvalidate",
+  "private": true,
+  "dependencies": {
+    "gulp-jsvalidate": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-module": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/gulp-module/-/latest.tgz"
+  }
 }
