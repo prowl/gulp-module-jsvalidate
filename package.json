@@ -1,6 +1,6 @@
 {
   "name": "gulp-module-jsvalidate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JSvalidate plugin for gulp",
   "main": "lib/index.js",
   "scripts": {
